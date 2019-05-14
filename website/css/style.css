@@ -1,0 +1,247 @@
+/*header*/
+
+#header{
+	background-image:url('../images/bg1.png');
+	background-size: cover;
+	padding-bottom: 150px;
+}
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    text-transform: uppercase;
+	font-weight: bold;
+	padding: 33px 28px;
+}
+#header .navbar-brand{
+	padding: 33px 0;
+	margin-left: 20px; 
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.col-md-5{
+	margin-top: 154px;
+	color: #fff;
+}
+.btn{
+	width: 164px;
+	height: 42px;
+	padding: 6px 12px;
+    border-radius: 24px;
+
+}
+/*header ends*/
+
+#service img {
+    border: 0;
+     margin-left: 264px;
+    margin-top: -212px;
+    width: 900px;
+    height: 450px;
+}
+#service .btn{
+    width: 164px;
+    height: 42px;
+    padding: 5px 12px;
+    border-radius: 24px;
+    margin-left: 224px;
+    margin-top: -183px;
+    border: none;
+    background-color: #fff;
+}
+
+/*3rd phase*/
+
+#graph{
+	background-image:url('../images/bg3.png');
+	background-size: cover;
+	padding: 100px 0;
+	margin-top: -28px;
+}
+#graph h1{
+    margin-top: 0px;
+    margin-bottom: -57px;
+    margin-left: 178px;
+    color: #fff;
+    text-transform: uppercase;
+}
+#graph p {
+    margin: 66px 0 0px;
+    color: #fff;
+    text-align: center;
+}
+#graph .btn {
+    width: 164px;
+    height: 42px;
+    padding: 6px 12px;
+    border-radius: 24px;
+    margin-top: 25px;
+    margin-left: 13px;
+}
+#graph .btn{
+    color: #009688;
+    background-color: #fff;
+    font-weight: bold;
+}
+#graph .btn-default{
+    color: #fff;
+    background-color: #009688;
+}
+
+#details{
+    background-image:url('../images/bg4.jpg');
+    background-size: cover;
+    
+}
+#details .fa,.far,.fas{
+    font-size: 45px;
+    margin-right: 150px;
+}
+#details h3{
+    margin-top: 26px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+#details .service{
+
+}
+#details h4{
+    margin-top: -30px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
+#details p{
+    margin: 1px 60px 50px;
+}
+
+#differnt{
+    background: #fff;
+    
+}
+
+#differnt h3{
+    margin-top: 48px;
+    margin-bottom: 10px;
+}
+#differnt img {
+    vertical-align: middle;
+    margin-bottom: 35px;
+    margin-top: 50px;
+}
+
+#differnt .parent{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#differnt .child{
+    position: absolute;
+    top: 147px;
+    left: 41px;
+}
+.container {
+  
+}
+.text-block {
+    position: absolute;
+    bottom: -13px;
+    right: 67px;
+    left: 55px;
+  }
+
+  #four{
+    background-image: url(../images/4th.png);
+    background-size: cover;
+    padding: 32px;
+    margin-top: 105px;
+  }
+  #four .fab{
+    font-size: 60px;
+    color: #fff;
+    margin-left: -255px;
+  }
+
+  #four p{
+    color: #fff;
+    margin-left: -226px;
+    text-align: center;
+  }
+
+ #lastone p{
+    margin-left: 71px;
+    margin-top: -51px;
+ }
+#lastone img{
+ margin-top: 25px;
+ }
+
+/*footer*/
+
+#footer{
+    background-color: #313131;
+    color: #969595;
+    padding: 50px;
+}
+#footer .list{
+    margin-left: -4px;
+}
+#footer .page{
+    margin-left: -38px;
+    margin-top: 39px;
+}
+#footer .mail{
+    margin-left: -101px;
+    margin-top: 8px;
+}
+#footer .about{
+    margin-left: -101px;
+    margin-top: 8px;
+}
+
+#footer .one{
+    margin-left: 24px;
+    margin-top: -20px;
+}
+#footer .two{
+    margin-left: 24px;
+    margin-top: -21px;
+}
+#footer .three{
+    margin-left: 21px;
+    margin-top: -22px;
+}
+#footer .far,.fas{
+    font-size: 16px;
+}
+#footer .fab{
+    font-size: 32px;
+    letter-spacing: 8px;
+}
+#footer .first{
+margin-left: 21px;
+}
+#footer .second{
+margin-left: 21px;
+}
+
+#copy{
+    background-color: #575555;
+}
+#copy .foot{
+    margin-top: 15px;
+}
+#copy .fo{
+    color: #fff;
+}
+
+#lol{
+    background-image: url(../images/Financial.png);
+    background-size: cover;
+    padding: 258px;
+    margin-top: -32px;
+}
